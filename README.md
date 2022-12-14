@@ -1,2 +1,2 @@
 # National-Power-Outages
-code to analyze national power outages 
+code to clean and analyze national power outages 
