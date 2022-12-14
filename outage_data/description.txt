@@ -1,0 +1,1 @@
+These data are annual averages for outage events and customers without power. We used this information to create nationwide maps of outages.
